@@ -6,6 +6,7 @@ public class Helloworld {
 		//this is my first java programm
 		
 		System.out.println("hello world");
+		System.out.println("gm");
 
 	}
 
